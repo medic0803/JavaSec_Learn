@@ -1,0 +1,2 @@
+className = ReflectionLearn.ReflectedObject
+methodName = publicMethod
